@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kartikeymishra2202
 - 👀 I’m interested in Full Stack development
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently Exploring Full development.
+- 
 - 
 - 📫 How to reach me linked in :kartikey mishra
 
