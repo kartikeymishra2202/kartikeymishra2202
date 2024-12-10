@@ -8,7 +8,7 @@ I am Kartikey Mishra, a passionate 3rd-year Computer Science student specializin
 - 📚 **Backend Frameworks:** Node.js, Express.js  
 - 🖥 **Frontend:** React.js, Next.js  
 - 🛠 **DevOps Tools:** Docker, Jenkins, AWS   
-- 🗄 **Databases:** MongoDB, MySQL  
+- 🗄 **Databases:** MongoDB,Postgres MySQL  
 
 ### 🚀 Achievements & Projects
 - **MERN Stack Developer:** Built multiple  applications, including a social media platform and job-portal backend.
