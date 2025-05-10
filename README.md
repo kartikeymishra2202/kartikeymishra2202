@@ -6,13 +6,11 @@ I am Kartikey Mishra, a passionate 3rd-year Computer Science student specializin
 
 - 🧑‍💻 **Languages & Technologies:** JavaScript (ES6+), Node.js, React, Next.js, Express ,Typescript 
 - 📚 **Backend Frameworks:** Node.js, Express.js  
-- 🖥 **Frontend:** React.js, Next.js  
-- 🛠 **DevOps Tools:** Docker, Jenkins, AWS   
+- 🖥 **Frontend:** React.js, Next.js    
 - 🗄 **Databases:** MongoDB,Postgres MySQL  
 
 ### 🚀 Achievements & Projects
 - **MERN Stack Developer:** Built multiple  applications, including a social media platform and job-portal backend.
-- **DevOps Projects:** Integrated CI/CD pipelines with Jenkins and Docker for efficient deployment.
   
 ### 🌟 Current Focus
 - 🔭 I’m currently working on: Full-stack applications with **Next.js** and learning advanced **DevOps** concepts. 
