@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kartikey Mishra!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0AEFF7&width=435&lines=I'm+a+MERN+Stack+Developer+and+DevOps+;+and+Cloud+Technologies.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0AEFF7&width=435&lines=I'm+a+MERN+Stack+Developer+and+DevOps+;+Cloud+Technologies.)
 
 ```js
 const About_Me = {
@@ -36,5 +36,5 @@ When I'm not orchestrating containers or wrangling state in React 🤔, you'll f
     ]
   }
 }
-
+```
 Feel free to connect with me on linkedin [Kartikey Mishra](https://www.linkedin.com/in/kartikey-mishra-252877256/) or follow my work here on GitHub!
