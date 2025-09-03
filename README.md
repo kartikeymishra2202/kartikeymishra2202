@@ -2,6 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0AEFF7&width=435&lines=I'm+a+MERN+Stack+Developer+and+DevOps+;+and+Cloud+Technologies.)
 
+```js
 const About_Me = {
   "moniker": "Kartikey 🚀",
   "digital_persona": "Full-Stack Architect 🏗️ & DevOps Explorer 🗺️",
